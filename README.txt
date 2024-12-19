@@ -1,3 +1,3 @@
 Portfolio Link:
 
-https://github.com/jayasree83/jayasree.github.io
+https://jayasree83.github.io/portfolio/
